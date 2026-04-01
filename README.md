@@ -64,16 +64,16 @@ adk deploy cloud_run \
 ## Screenshots
 
 ### Agent greeting and symptom capture
-![Greeting](screenshots/screenshot_1209.png)
+![Greeting](Screenshot%20(1209).png)
 
 ### save_symptoms_to_state tool invocation
-![Tool Invocation](screenshots/screenshot_1210.png)
+![Tool Invocation](Screenshot%20(1210).png)
 
 ### Wikipedia research in action
-![Wikipedia Research](screenshots/screenshot_1211.png)
+![Wikipedia Research](Screenshot%20(1211).png)
 
 ### Medical conditions response
-![Response](screenshots/screenshot_1212.png)
+![Response](Screenshot%20(1212).png)
 
 ## Disclaimer
 
