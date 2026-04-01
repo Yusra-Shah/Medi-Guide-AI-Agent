@@ -1,4 +1,4 @@
-# MediGuide AI — Medical Information Assistant
+# MediGuide AI (Medical Information Assistant)
 
 A conversational multi-agent AI system that helps users 
 understand their symptoms using real-time medical research.
